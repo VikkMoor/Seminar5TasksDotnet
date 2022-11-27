@@ -9,7 +9,7 @@ void FillArray(int[] arr1)
     int pos1 = 0;
     while (pos1 < len1)
     {
-        arr1[pos1] = new Random().Next(-9, 9);
+        arr1[pos1] = new Random().Next(-9, 10);
         pos1++;
     }
 }
