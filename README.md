@@ -13,4 +13,3 @@ Prepod: example with string to numbers.
 
 Palindrome: just like such way for this task ; )
 
-To be continued..
