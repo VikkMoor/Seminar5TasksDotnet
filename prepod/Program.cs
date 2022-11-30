@@ -3,5 +3,5 @@ string[] nums = s.Split(new char[] { ' ', '.', ',' }, StringSplitOptions.RemoveE
 int[] n = nums.Select(Int32.Parse).ToArray();
 foreach (var num in n)
 {
-    Console.WriteLine(num + 10);
+    Console.WriteLine(num);
 }
